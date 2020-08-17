@@ -2,3 +2,4 @@
 data/close/
 data/tech/
 notebooks/.ipynb_checkpoints/
+*__pycache__
