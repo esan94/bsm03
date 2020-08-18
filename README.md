@@ -52,3 +52,19 @@ This will update tickers in SYMBOLS variable of ```constants.py```
 6. Days to deploy the pct_change.
 7. Pct_change chart.
 8. Box-plot of the distribution of the pct_change
+
+### Trading Strategy
+
+
+![TR1](images/tr1.png)
+![TR2](images/tr2.png)
+
+1. Choose a model.
+2. Choose the category to predict.
+3. Choose a ticker.
+4. Choose days to predict.
+5. Table with past data description on each category.
+6. Radar-plot to compare the actual ticker with the past values. White line is the actual prediction.
+7. Prediction of the actual ticker for the chosen date.
+8. Cosine similarity for the actual prediction with the past data.
+9. Table with the 50 highest tickers in relation to cosine similarity
