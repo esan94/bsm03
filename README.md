@@ -3,7 +3,7 @@ This repo contains an actual version of the master disertation beating_stock_mar
 
 All codes are documented in spanish following numpy style guide.
 
-You can see what to expect from this project reading in this medium post [Machine Learning, Fintech & Trading | by: Esteban Sánchez | Medium](https://medium.com/)
+You can see what to expect from this project reading in this medium post [Machine Learning, Fintech & Trading | by: Esteban Sánchez | Medium](https://medium.com/@emsg94/beating-stock-market-8b33c5afb633) or its spanish version [Machine Learning, Fintech & Trading | ESP | by: Esteban Sánchez | Medium](https://medium.com/@emsg94/venciendo-al-mercado-8e7f21fd4c76).
 
 ## Before starting
 First of all you will need a free or premium API key from [Alpha Vantage](https://www.alphavantage.co/) that you have to write on line 7 of ```constants.py```
