@@ -10,7 +10,7 @@ First of all you will need a free or premium API key from [Alpha Vantage](https:
 
 ![AV_API_KEY](images/av_api_key.png)
 
-You have to decide how many tickers or over which tickers you want to use the app, you can change that on lines 59 and 60 of ```constants.py```
+You have to decide how many tickers or over which tickers you want to use the app, you can change that on lines 59 and 60 of ```constants.py```. There is a notebook called ```get_symbols_list.ipynb``` where you can find all the ticker list available in the API [Finnhub](https://finnhub.io/) to use as SYMBOLS.
 
 ![SYMBOLS](images/symbols.png)
 
